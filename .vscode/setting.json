@@ -1,0 +1,12 @@
+
+{
+    "java.project.sourcePaths": [
+        "Basic Program",
+        "L1. java first code",
+        "L2. Negative and Floating Point numbers",
+        "L3. Type conversion and Type promotion",
+        "L4. Java Operators"
+    ],
+    "java.project.outputPath": "bin",
+    "java.debug.settings.console": "integratedTerminal"
+}
