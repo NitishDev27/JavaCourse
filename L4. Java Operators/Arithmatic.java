@@ -1,6 +1,6 @@
 public class Arithmatic{
     public static void main(String[] args) {
-        //Arithmatic operator.
+        //Arithmatic operator  --> +, -, *, /, %, +=, -=, /=, %=, ++, -- 
         int a=10;
         int b=40;
 
