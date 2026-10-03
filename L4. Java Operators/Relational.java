@@ -6,5 +6,14 @@ public class Relational {
 
         boolean c=(a==b);
         System.out.println(c); // true
+
+        boolean d=(a!=b);
+        System.out.println(d); // false
+
+        boolean e = (a<b);
+        System.out.println(e); // false
+
+        boolean f=(a<=b);
+        System.out.println(f); // true
     }
 }
