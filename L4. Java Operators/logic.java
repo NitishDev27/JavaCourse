@@ -6,8 +6,11 @@ public class logic {
        int c = 15;
 
        boolean d = (a < b) && (b < c);
+       boolean f = (a > b) && (b > c);
 
        // Short circuit
 
        System.out.println(d); // false
+       System.out.println(f);
+
 }}
