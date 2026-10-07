@@ -36,10 +36,10 @@ public class Arithmatic{
         --j; // prefix decrement
         j++; // postfix increment
             // j=9
-        int k=j++; // k = j; j = j + 1;
+        int k=j++; // k = j; j = j + 1;;
         System.out.println(j+"," +k);
 
         int l=++j; // l = j + 1;
         System.out.println(j+"," +l);
-    }
+}
 }
